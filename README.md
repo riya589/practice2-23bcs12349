@@ -1,2 +1,17 @@
-# practice2-23bcs12349
-A simple and responsive banking user interface built using HTML &amp; CSS.
+# Responsive Banking UI
+
+A simple and responsive **banking user interface** built using **HTML & CSS**.  
+It includes a balance display section and two action buttons — **Deposit** and **Withdraw** — styled for a clean and professional look.
+
+## 🚀 Demo
+[Click here to view the live demo](https://banking-ui-23bcs12349.netlify.app/)
+
+## 📌 Features
+- Responsive design (works on desktop, tablet, and mobile)
+- Centered layout with modern styling
+- Balance display section
+- Deposit and Withdraw buttons with hover effects
+
+## 🛠 Technologies Used
+- **HTML5**
+- **CSS3** (Flexbox & Media Queries)
