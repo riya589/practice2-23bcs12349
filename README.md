@@ -4,7 +4,7 @@ A simple and responsive **banking user interface** built using **HTML & CSS**.
 It includes a balance display section and two action buttons — **Deposit** and **Withdraw** — styled for a clean and professional look.
 
 ## 🚀 Demo
-[Click here to view the live demo](https://banking-ui-23bcs12349.netlify.app/)
+https://banking-ui-23bcs12349.netlify.app/
 
 ## 📌 Features
 - Responsive design (works on desktop, tablet, and mobile)
